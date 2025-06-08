@@ -1,0 +1,3 @@
+Hello, Rust!
+This is written to a file.
+This line was appended.
